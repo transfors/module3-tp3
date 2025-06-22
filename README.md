@@ -13,7 +13,7 @@ SimpleSwap is a straightforward AMM (Automated Market Maker) inspired by Uniswap
 - Removing liquidity proportionally
 - Swapping tokens with slippage protection
 - Querying token prices from the pool reserves
-- 
+
 It handles two ERC20 tokens per pool and tracks liquidity shares for providers.
 
 Features
